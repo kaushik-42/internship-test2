@@ -6,9 +6,14 @@
 	|- Three .csv Files
  
 	- Output Data(IN .CSV Files)
-	|- Three output.csv files
-	|- One Non coding solution
-  
+	|- answer-1 
+	  |- output1.csv 
+	|- answer-2
+	  |- output2.csv 
+	|- answer-3
+	  |- output3.csv 
+
+	
 	- Bungee Coding Round.docx: Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
 
 
